@@ -4,7 +4,7 @@
 *
 * _putchar:print the alphabets putchar
 *
-* Return : Always 0 (Success)
+* Return: Always 0
 */
 int main(void)
 {
