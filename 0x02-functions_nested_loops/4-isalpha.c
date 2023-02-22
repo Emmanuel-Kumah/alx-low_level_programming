@@ -3,10 +3,8 @@
 * _isalpha-check if character is lowercase or uppercase
 *
 * @c:character to check if it islowercase.
-* 
 * Return: ALways 0 ;
 */
-
 
 int _isalpha(int c)
 {
